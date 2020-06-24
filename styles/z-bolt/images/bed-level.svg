@@ -1,24 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="74px" height="62px" viewBox="0 0 74 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>bed-level</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-662.000000, -314.000000)" stroke="#FFFFFF">
-            <g id="leveling" transform="translate(662.000000, 314.000000)">
-                <path d="M68.8858131,42.733564 C68.8858131,40.982699 67.4394464,39.5363322 65.6885813,39.5363322 L8.1384083,39.5363322 C6.38754325,39.5363322 4.94117647,40.982699 4.94117647,42.733564 L4.94117647,43.9515571 C4.94117647,45.7024221 6.38754325,47.1487889 8.1384083,47.1487889 L65.6885813,47.1487889 C67.4394464,47.1487889 68.8858131,45.7024221 68.8858131,43.9515571 L68.8858131,42.733564 Z" id="Path" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
-                <polyline id="Path" stroke-width="2" stroke-linejoin="round" points="11.0311419 49.432526 11.0311419 54 17.1211073 54 17.1211073 49.432526"></polyline>
-                <polyline id="Path" stroke-width="2" stroke-linejoin="round" points="56.7058824 49.432526 56.7058824 54 62.7958478 54 62.7958478 49.432526"></polyline>
-                <g id="Group" transform="translate(4.761246, 6.000000)" stroke-linejoin="round">
-                    <polyline id="Path" stroke-width="1.9497" points="37.7577855 5.32871972 57.550173 0 59.9100346 8.83044983 2.58823529 24.2076125 0.228373702 15.3771626 20.0968858 10.0484429"></polyline>
-                    <polyline id="Path" points="0.456747405 16.1384083 20.2491349 10.8096886 22.532872 13.3979239 37.2249135 9.43944637 37.9100346 6.0899654 57.7785467 0.761245675"></polyline>
-                    <polyline id="Path" stroke-width="2" points="19.3356401 10.2768166 20.0207612 6.92733564 36.2352941 2.58823529 38.4429066 5.17647059"></polyline>
-                    <path d="M32.5051903,6.5467128 C32.6574394,7.07958478 32.3529412,7.53633218 31.8200692,7.68858131 L26.2629758,9.1349481 C25.7301038,9.28719723 25.2733564,8.98269896 25.1211073,8.44982699 L24.816609,7.30795848 C24.6643599,6.77508651 24.9688581,6.3183391 25.5017301,6.16608997 L31.0588235,4.71972318 C31.5916955,4.56747405 32.0484429,4.87197232 32.200692,5.40484429 L32.5051903,6.5467128 Z" id="Path" stroke-width="1.9008"></path>
-                </g>
-                <path d="M7.98615917,34.2076125 L65.8408304,34.2076125" id="Path" stroke-width="1.9008" stroke-linejoin="round"></path>
-                <path d="M8.74740484,34.2076125 L65.8408304,18.982699" id="Path" stroke-width="2" stroke-linejoin="round"></path>
-                <path d="M39.5017301,25.83391 C40.7197232,27.1280277 41.4809689,28.8788927 41.4809689,30.7820069 C41.4809689,32 41.1764706,33.2179931 40.6435986,34.2076125" id="Path" stroke-width="2" stroke-linejoin="round"></path>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56.693 56.693" style="enable-background:new 0 0 56.693 56.693;" xml:space="preserve">
+<g id="bed-level">
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="43.239" y1="34.476" x2="43.239" y2="19.865"/>
+	<g>
+		<g>
+			<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="31.546" y1="7.624" x2="31.546" y2="9.602"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="24.641" y1="7.624" x2="24.641" y2="9.602"/>
+			<path style="fill:#FFFFFF;" d="M28.094,8.958c0.737,0,1.334-0.597,1.334-1.334H26.76C26.76,8.361,27.357,8.958,28.094,8.958z"/>
+			
+				<rect x="22.783" y="7.624" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" width="10.912" height="1.978"/>
+		</g>
+		<g>
+			
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="43.865" y1="9.429" x2="45.378" y2="10.942"/>
+			
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="41.048" y1="12.245" x2="42.562" y2="13.759"/>
+			
+				<rect x="40.125" y="10.464" transform="matrix(0.7071 -0.7071 0.7071 0.7071 4.518 33.9767)" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" width="6.294" height="2.14"/>
+			<circle style="fill:#FFFFFF;" cx="43.272" cy="11.535" r="0.998"/>
+			<circle style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" cx="43.239" cy="11.569" r="4.012"/>
+		</g>
+		<g>
+			<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="12.168" y1="9.613" x2="14.309" y2="9.613"/>
+			
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="12.168" y1="13.596" x2="14.309" y2="13.596"/>
+			
+				<rect x="10.092" y="10.45" transform="matrix(6.123234e-17 -1 1 6.123234e-17 1.7179 24.7592)" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" width="6.294" height="2.14"/>
+			<circle style="fill:#FFFFFF;" cx="13.239" cy="11.521" r="0.998"/>
+			<circle style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" cx="13.239" cy="11.569" r="4.012"/>
+		</g>
+		<polygon style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="33.694,7.624 37.698,6.701 52.921,6.701 52.921,16.627 
+			28.383,16.627 3.846,16.627 3.846,6.701 19.069,6.701 22.783,7.624 		"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="7.383" y1="16.627" x2="7.383" y2="6.701"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;" x1="49.383" y1="16.627" x2="49.383" y2="6.701"/>
+	</g>
+	<polygon style="fill:#FFFFFF;" points="43.239,36.828 43.239,36.828 40.739,31.828 45.739,31.828 	"/>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="28.239" y1="42.653" x2="28.239" y2="19.986"/>
+	<polygon style="fill:#FFFFFF;" points="28.239,45.005 28.239,45.005 25.739,40.005 30.739,40.005 	"/>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="13.239" y1="34.597" x2="13.239" y2="19.986"/>
+	<polygon style="fill:#FFFFFF;" points="13.239,36.949 13.239,36.949 10.739,31.949 15.739,31.949 	"/>
+	<polygon style="fill:none;stroke:#FFFFFF;" points="50.069,26.859 6.624,26.859 3.195,48.442 3.195,52.316 9.704,52.316 
+		9.704,48.442 46.989,48.442 46.989,52.316 53.498,52.316 53.498,48.442 	"/>
+	<polygon style="fill:none;stroke:#FFFFFF;stroke-width:0.5;" points="50.932,46.643 48.338,28.606 8.355,28.606 5.83,46.643 	"/>
+	<path style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" d="M53.304,56.138H3.389c-1.566,0-2.835-1.269-2.835-2.835V3.389
+		c0-1.566,1.269-2.835,2.835-2.835h49.914c1.566,0,2.835,1.269,2.835,2.835v49.914C56.138,54.869,54.869,56.138,53.304,56.138z"/>
+</g>
+<g id="Layer_1">
+</g>
 </svg>

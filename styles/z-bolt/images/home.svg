@@ -1,92 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60.13768"
-   height="60.776516"
-   viewBox="0 0 60.137677 60.776516"
-   id="svg4160"
-   version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="home.svg">
-  <defs
-     id="defs4162" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-88.0549"
-     inkscape:cy="7.2709709"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="true"
-     units="in"
-     showguides="false"
-     inkscape:window-width="3200"
-     inkscape:window-height="1800"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:snap-bbox="true"
-     inkscape:snap-global="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4712"
-       originx="-9.9771178"
-       originy="-29.820954" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4165">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Home"
-     style="display:inline"
-     transform="translate(-3.5328446,2.2636422)">
-    <g
-       transform="translate(-6.0320882,-17.113896)"
-       style="display:inline;opacity:1"
-       id="g37">
-      <ellipse
-         style="fill:#FFFFFF;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.909554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5114"
-         cx="39.563484"
-         cy="38.301231"
-         rx="4.3646102"
-         ry="4.4508762" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path5926"
-         d="M 13.635124,47.26932 39.63378,22.377714 65.632437,47.321901"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccccccc"
-         inkscape:connector-curvature="0"
-         id="path5928-6"
-         d="M 60.399539,43.407009 V 68.677008 H 43.991463 V 48.461009 l -4.357682,-0.02629 -4.357683,-0.02629 V 68.624428 H 18.868022 V 43.354429"
-         style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56.693 56.693" style="enable-background:new 0 0 56.693 56.693;" xml:space="preserve">
+<g id="home">
+	<g>
+		<g>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;" d="M49.171,22.904c-0.78,0-1.417,0.638-1.417,1.417
+				v26.276c0,0.78-0.638,1.417-1.417,1.417h-35.98c-0.78,0-1.417-0.638-1.417-1.417V24.321c0-0.78-0.638-1.417-1.417-1.417H3.949
+				c-0.78,0-0.902-0.376-0.272-0.835L27.201,4.92c0.63-0.459,1.661-0.459,2.291,0l23.524,17.149c0.63,0.459,0.508,0.835-0.272,0.835
+				H49.171z"/>
+		</g>
+		<polyline style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;" points="24.68,52.015 24.68,39.671 
+			32.087,39.671 32.087,52.015 		"/>
+	</g>
+	<path style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" d="M53.304,56.138H3.389c-1.566,0-2.835-1.269-2.835-2.835V3.389
+		c0-1.566,1.269-2.835,2.835-2.835h49.914c1.566,0,2.835,1.269,2.835,2.835v49.914C56.138,54.869,54.869,56.138,53.304,56.138z"/>
+</g>
+<g id="Layer_1">
+</g>
 </svg>

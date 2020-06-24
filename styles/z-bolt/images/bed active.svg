@@ -2,8 +2,8 @@
 <!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 56.693 56.693" style="enable-background:new 0 0 56.693 56.693;" xml:space="preserve">
-<g id="bed">
-	<path style="fill:#3498DB;stroke:#FFFFFF;stroke-miterlimit:10;" d="M53.304,56.138H3.389c-1.566,0-2.835-1.269-2.835-2.835V3.389
+<g id="bed_active">
+	<path style="fill:#E74C3C;stroke:#FFFFFF;stroke-miterlimit:10;" d="M53.304,56.138H3.389c-1.566,0-2.835-1.269-2.835-2.835V3.389
 		c0-1.566,1.269-2.835,2.835-2.835h49.914c1.566,0,2.835,1.269,2.835,2.835v49.914C56.138,54.869,54.869,56.138,53.304,56.138z"/>
 	<polygon style="fill:none;stroke:#FFFFFF;" points="50.069,26.859 6.624,26.859 3.195,48.442 3.195,52.316 9.704,52.316 
 		9.704,48.442 46.989,48.442 46.989,52.316 53.498,52.316 53.498,48.442 	"/>
