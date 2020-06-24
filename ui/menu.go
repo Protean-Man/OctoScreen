@@ -91,6 +91,11 @@ func getDeafultMenu() []octoprint.MenuItem {
 					"panel": "extrude_multitool"
 				},
 				{
+					"name": "Filament",
+					"icon": "filament",
+					"panel": "filament_multitool"
+				},
+				{
 					"name": "Fan",
 					"icon": "fan",
 					"panel": "fan"
@@ -113,9 +118,9 @@ func getDeafultMenu() []octoprint.MenuItem {
 			]
 		},
 		{
-			"name": "Filament",
+			"name": "Extrude",
 			"icon": "filament",
-			"panel": "filament_multitool"
+			"panel": "extrude_multitool"
 		},
 		{
 			"name": "Configuration",

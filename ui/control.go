@@ -8,8 +8,17 @@ import (
 )
 
 var control = []*octoprint.ControlDefinition{{
-	Name:    "Motor Off",
+	Name:    "Motors Off",
 	Command: "M18",
+}, {
+	Name:    "Lock",
+	Command: "M280 P0 S90",
+}, {
+	Name:    "Unlock",
+	Command: "M280 P0 S0",
+}, {
+	Name:    "Cool Down",
+	Command: "M104 T0 S0, M104 T1 S0, M104 T2 S0, M104 T3 S0, M140 S0",
 }, {
 	Name:    "Fan On",
 	Command: "M106",

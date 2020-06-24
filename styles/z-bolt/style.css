@@ -3,20 +3,20 @@
 } */
 
 window {
-	background-color: #13181C;
+	background-color: #000000;
 	-gtk-icon-shadow: none;
 	font-size: 20px;
 }
 
 scrollbar, scrollbar button {
 	border: none;
-	background-color: #13181C;
+	background-color: #000000;
 }
 
 scrollbar slider {
 	min-width: 88px;
 	border-radius: 15px;
-	background-color: #404E57;
+	background-color: #3498db;
 }
 
 progress, trough {
@@ -25,14 +25,14 @@ progress, trough {
 }
 
 progress {
-	background-color: #00C9B4;
+	background-color: #2ecc71;
 	font-size: 50px;
 	font-weight: lighter;
 }
 
 .printing-progress-bar{
 	font-size: 60px;
-	color: #00C9B4;
+	color: #2ecc71;
 }
 
 .printing-state {
@@ -41,7 +41,7 @@ progress {
 
 button {
 	background-image: none;
-	background-color: #13181C;
+	background-color: #000000;
 	margin: 5px;
 	margin-bottom: 10px;
 	border-radius: 0;
@@ -50,27 +50,27 @@ button {
 }
 
 button:active {
-	background-color: #304C62;
+	background-color: #f1c40f;
 }
 
 button.color1 {
-	border-bottom: 8px solid #ED6500;
+	border-bottom: 8px solid #f39c12;
 }
 
 button.color2 {
-	border-bottom: 8px solid #B10080;
+	border-bottom: 8px solid #e74c3c;
 }
 
 button.color3 {
-	border-bottom: 8px solid #009384;
+	border-bottom: 8px solid #2ecc71;
 }
 
 button.color4 {
-	border-bottom: 8px solid #A7E100;
+	border-bottom: 8px solid #9b59b6;
 }
 
 button.active {
-	background-color: #20303D;
+	background-color: #7f8c8d;
 }
 
 button.file-list {
@@ -79,7 +79,7 @@ button.file-list {
 
 entry {
 	font-size: 30px;
-	background-color: #20292F;
+	background-color: #000000;
 	border-radius: 0;
 	padding-left: 1em;
 	margin-left: 1em;
@@ -101,7 +101,7 @@ button.keyboard {
 
 .dialog button {
 	padding: 30px 50px 30px 50px;
-	border-bottom: 8px solid #009384;
+	border-bottom: 8px solid #3498db;
 }
 
 .dialog {
@@ -113,15 +113,15 @@ button.keyboard {
 
 .dialog button {
 	padding: 30px 50px 30px 50px;
-	border-bottom: 8px solid #009384;
+	border-bottom: 8px solid #3498db;
 }
 
 .message {
-	border: 2px solid #981E1F;
+	border: 2px solid #e74c3c;
 	font-size: 20px;
 	padding: 50px;
 	color: #FFF;
-	background-color: #981E1F;
+	background-color: #e74c3c;
 }
 
 .message button {
@@ -138,11 +138,11 @@ button.keyboard {
 }
 
 .warning {
-	background-color: rgba(30, 204, 39, 0.7);
+	background-color: rgba(13, 236, 24, 0.7);
 }
 
 .error {
-	background-color: rgba(204, 30, 30, 0.7);
+	background-color: rgba(231, 16, 16, 0.7);
 }
 
 .printing-status-label {
